@@ -17,5 +17,6 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine using `git clone https://github.com/sowmya517/Crossmint-Challenge-Megaverse.git`
 2. Navigate to the project directory: `cd Crossmint-Challenge-Megaverse`
 3. Install dependencies using npm or yarn: `npm install` or `yarn install`
+4. Run npm run start
 
 
